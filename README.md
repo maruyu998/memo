@@ -1,5 +1,5 @@
 # memo command
-Its function is simple. Store memo to memo.txt and you can obtain memo by key or all.
+Its function is simple. Store memo to memos/key.txt and you can obtain memo by key or all.
 
 ## install
 `pip install -U git+https://github.com/maruyu998/memo`
