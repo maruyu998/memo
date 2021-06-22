@@ -7,9 +7,8 @@ Its function is simple. Store memo to memos/key.txt and you can obtain memo by k
 or 
 
 ```
-git clone https://github.com/maruyu998/memo
-cd memo
-pip install -e .
+git clone https://github.com/maruyu998/memo ~/.memo
+pip install -e ~/.memo
 ```
 
 ## usage
